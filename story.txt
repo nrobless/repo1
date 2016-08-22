@@ -1,3 +1,3 @@
 A long time ago, in a galaxy far, far away...
 Someone wrote this text document.
-Han Solo didn't shoot first.
+Han Solo does shoot first.
